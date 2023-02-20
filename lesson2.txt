@@ -1,3 +1,7 @@
+=========
+LESSON 2
+=========
+
 This is lesson 2
 this will talk about the git advance topics such as logs and add . command.
 

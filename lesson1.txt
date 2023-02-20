@@ -1,3 +1,7 @@
+===========
+LESSON 1
+===========
+
 This is a new lesson on git
 
 

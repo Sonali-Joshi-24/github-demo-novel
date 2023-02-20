@@ -1,3 +1,7 @@
+===============
+CHARACTERS
+===============
+
 Summary on git commit
 The git commit command is one of the core primary functions of Git.
 Prior use of the git add command is required to select the changes

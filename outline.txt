@@ -1,2 +1,9 @@
+=========
+OUTLINE
+=========
+
 lesson 1
 - This chapter will talk about git and its basic commands that will get you going.
+
+lesson 2
+- This chapter will contains information regarding advance git command
