@@ -1,5 +1,5 @@
 ===========
-LESSON 1
+Chp 1
 ===========
 
 This is a new lesson on git
